@@ -2,14 +2,14 @@
   "name": "ecommerce-react",
   "version": "1.2.0",
   "main": "index.js",
-  "author": "Julius Guevarra",
+  "author": "Abdallah osama",
   "keywords": [
     "react-webpack",
     "boilerplate",
     "react-webpack-boilerplate",
     "react-boilerplate"
   ],
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build  && cd dist && cp index.html 404.html",
